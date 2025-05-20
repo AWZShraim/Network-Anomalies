@@ -25,7 +25,7 @@ pip install scapy pandas scikit-learn matplotlib psutil numpy
 1. **Clone the Repository**:
 
 ```
-git clone https://github.com/AWZShraim/Anomaly-Detection.git
+git clone https://github.com/AWZShraim/Network-Anomalies.git
 cd Anomaly-Detection
 ```
 
