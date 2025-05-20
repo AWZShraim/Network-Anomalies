@@ -26,13 +26,13 @@ pip install scapy pandas scikit-learn matplotlib psutil numpy
 
 ```
 git clone https://github.com/AWZShraim/Network-Anomalies.git
-cd Anomaly-Detection
+cd Network-Anomalies
 ```
 
 2. **Run the Script**:
 
 ```
-python anomaly_detection.py
+python Network-Anomalies.py
 ```
 
 ## How It Works
